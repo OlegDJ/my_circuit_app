@@ -1,0 +1,4 @@
+<Solution>
+  <Project Path="ConsoleApp/ConsoleApp.csproj" />
+  <Project Path="LogicLibrary/LogicLibrary.csproj" Id="4ae5305b-8e7a-44b2-9351-d92c1adbd33b" />
+</Solution>
